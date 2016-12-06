@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SearchPlaces</string>
+    <string name="search_places">Search Places</string>
+    <string name="search_ip">Search IP</string>
+    <string name="na">Not Available</string>
+    <string name="not_found">Not Found</string>
+    <string name="error_getting_map">Error getting map</string>
+    <string name="google_static_maps_key">AIzaSyDJOQReKdZIDscZLJWKmLJt7qK4Outb5J0</string>
+</resources>
